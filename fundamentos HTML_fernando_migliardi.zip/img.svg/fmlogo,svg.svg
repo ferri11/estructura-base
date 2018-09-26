@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <text stroke="#000000" transform="matrix(29.2705 0 0 4.12287 -4598.82 -345.321)" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="132" x="168" stroke-width="0" fill="#000000"/>
+  <text stroke="#000000" transform="matrix(29.3626 0 0 8.03173 -5351.22 -854.904)" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_2" y="143" x="194" stroke-width="0" fill="#000000"/>
+  <text stroke="#000000" transform="matrix(5.03937 0 0 3.76923 -883.235 -470.769)" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_3" y="50" x="50" stroke-width="0" fill="#000000">fm</text>
+  <text stroke="#000000" transform="matrix(11.9194 0 0 3.28189 -768.626 -152.816)" xml:space="preserve" text-anchor="middle" font-family="Monospace" font-size="24" id="svg_6" y="89" x="77" opacity="0.25" stroke-width="3" fill="#ff0000"/>
+  <text font-weight="bold" font-style="italic" stroke="#000000" transform="matrix(7.02487 0 0 2.89286 -480.591 -218.571)" xml:space="preserve" text-anchor="middle" font-family="Monospace" font-size="24" id="svg_7" y="105" x="85" fill="#ff0000">fm</text>
+ </g>
+
+</svg>
